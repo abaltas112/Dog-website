@@ -1,0 +1,61 @@
+<html>
+    <head>
+    <Title>Different kinds of Dogs!</Title> 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <nav>
+        <div class="Pink nav-wrapper">
+            <a href="#" class="brand-logo">Dogs</a>
+            <ul id="nav-mobile" class="right hide-on-med-and-down">
+                <li><a href="Website">First Page</a></li>
+                <li><a href="About">About</a></li>
+                <li><a href="http://www.google.com">Google</a></li>
+            </ul>
+        </div>
+    </nav>
+    </head>
+    <body>
+        <h1 class="center-align">
+            Kinds of Dogs!
+        </h1>
+    <p>
+        <li>
+            <b>Great Dane:</b> Large sized dog. Great Danes orginated in germany and used to be used as a hunting Dog. Also does not have much fur which is why you they kind of look like they have wrinkles.
+            They have a powerful and well-muscled build with a sleek coat that comes in various colors, including fawn, brindle, blue, black, and harlequin (white with irregular black patches).
+            Despite their imposing size, Great Danes are known for their gentle and friendly demeanor. They are often referred to as "gentle giants" and are typically good-natured, affectionate, and good with children.
+            The average lifespan of a Great Dane is around 7 to 10 years. Like many large breeds, they may be prone to certain health issues, including hip dysplasia and heart conditions.
+            Great Danes, despite their friendly nature, can be protective of their family. Their sheer size and deep bark are often deterrents to potential intruders.
+        <br>
+            <img src="/Users/alexandrabaltas/Downloads/Great Dane.jpg" alt="Great Dane" width="300" height="300">
+        </li>
+        <br>
+        <li> 
+            <b>Bulldog:</b> A dog that is a british breed which is why it is sometimes called a British Bulldog. It is a medium sized dog that kind of looks like it has muscles.Bulldogs are known for their calm
+            and gentle temperament. They are generally good with children and make excellent family pets. Despite their sometimes serious facial expression, they are often affectionate and enjoy spending time with 
+            their human companions. Bulldogs are not high-energy dogs and don't require extensive exercise. Short walks and moderate playtime are usually sufficient. Due to their brachycephalic features, they may 
+            have difficulty regulating their body temperature, so exercise in extreme heat should be limited. There are different types of Bulldogs, including the English Bulldog, French Bulldog, and American 
+            Bulldog. Each has its own unique characteristics, but they all share the distinctive bulldog look.
+        <br>    
+            <img src="/Users/alexandrabaltas/Downloads/Bulldog.jpg" alt="Bulldog" width="300" height="300">
+        </li>
+        <br>
+        <li>
+            <b>German Shepherd:</b> As seen with the name the German Shepherd is a German breed. They range from a medium to large size, used for herding sheep back in history.German Shepherds are renowned for 
+            their intelligence and trainability. They are often used as working dogs in roles such as police work, search and rescue, and as service animals due to their ability to quickly learn and follow commands. 
+            Known for their loyalty and protective instincts, German Shepherds are devoted to their families. They are typically good with children but require early socialization to ensure they are well-mannered 
+            and comfortable in various situations. German Shepherds are an active breed that requires regular exercise to keep them physically and mentally stimulated. Daily walks, playtime, and training sessions 
+            are essential to maintain their well-being.
+        <br>    
+            <img src="/Users/alexandrabaltas/Downloads/German Shephard.jpg" alt="German Shepherd" width="350" height="300">
+        </li>
+        <br>
+        <li>
+            <b>Husky:</b> Husky is a name for more than one kind of dog from the polar regions. It is one of the most hairy dogs and has the thickest coat because of the cold they would live in. : Huskies are 
+            known for their incredible energy and agility. They are originally a working breed, developed by the Chukchi people of Siberia to pull sleds across long distances in harsh Arctic conditions.
+            Siberian Huskies are typically friendly, outgoing, and good-natured. They are known for their social demeanor and often get along well with children and other dogs. This friendly disposition makes 
+            them less suitable as guard dogs. Huskies are vocal and expressive. They often "talk" with a variety of vocalizations, including howling, whining, and making other distinctive sounds. This adds to 
+            their unique and charming personality.
+         <br>   
+            <img src="/Users/alexandrabaltas/Downloads/Husky.jpg" alt="Husky" width="350" height="300">
+        </li>
+    </p>

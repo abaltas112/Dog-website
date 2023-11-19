@@ -1,0 +1,61 @@
+<html> 
+    <head>
+    <title> About Dogs </title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <nav>
+      <div class="Pink nav-wrapper">
+        <a href="#" class="brand-logo">Example Site</a>
+        <ul id="nav-mobile" class="right hide-on-med-and-down">
+          <li><a href="Website">First Page</a></li>
+          <li><a href="Kinds">Kinds</a></li>
+          <li><a href="http://www.google.com">Google</a></li>
+        </ul>
+      </div>
+    </nav>
+  </head>
+  <body>
+    <div class="section Blue magenta-text text-darken-3" id="top-div">
+    <h1 class="center-align yellow-text text-darken-3">
+      Facts about Dogs!
+    </h>
+    <p></p>
+        <li>
+           <b>Diverse Breeds:</b> There are over 340 different dog breeds worldwide, ranging from tiny Chihuahuas to large Great Danes, each with its own unique characteristics.
+        </li>
+        <li>
+            <b>Amazing Sense of Smell:</b> Dogs have an extraordinary sense of smell. Depending on the breed, a dog's sense of smell can be anywhere from 10,000 to 100,000 times more acute than humans.
+        </li>
+        <li> 
+            <b>Tail Wagging Communication:</b> Dogs use their tails to communicate. A wagging tail doesn't always mean a happy dog; the speed, direction, and height of the wag can convey different emotions.
+        </li>
+        <li>
+            <b>Unique Nose Prints:</b> Similar to human fingerprints, each dog's nose print is unique. The patterns of ridges and creases on a dog's nose can be used for identification.
+        </li>
+        <li>
+            <b>Puppy Diversity:</b> Puppies are born blind, deaf, and toothless. They begin to open their eyes and ears around two weeks of age, and their baby teeth start coming in at around three weeks.
+        </li>
+        <li>
+            <b>Dogs Dream Too:</b> Like humans, dogs experience REM (rapid eye movement) sleep, indicating that they dream. You may notice your dog twitching or making little sounds while sleeping, suggesting they're dreaming.
+        </li>
+        <li>
+            <b>Packs and Hierarchy:</b> Dogs are pack animals and thrive on social structure. They often see their human family as part of their pack and may display behaviors reflecting a hierarchical order.
+        </li>
+        <li>
+            <b>Canine Compass:</b> Some dogs have an incredible ability to find their way home over long distances. This is known as the "Homeward Bound" phenomenon and is a testament to their keen sense of direction.
+        </li>
+        <li>
+            <b>Puppy Love:</b> Dogs release oxytocin, the "love hormone," when interacting with their humans. This hormone plays a role in bonding and forming emotional connections.
+        </li>
+        <li>
+            <b>Diverse Abilities:</b> Dogs are employed in various roles, including therapy dogs, search and rescue dogs, police dogs, and even detection dogs for detecting drugs, explosives, or diseases.
+        </li>
+        <p>
+          My Dog Story! 
+            When I was younger I had a dog named Nikta which in greek means night. She was a mutt that was half black lab and half shephard. She was all black with a little bit of white on her chest.
+
+        </p>
+      </div>
+    </p>
+  </body>
+</html>

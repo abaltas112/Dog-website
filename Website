@@ -1,0 +1,42 @@
+<html>
+  <head>
+    <title> Dogs! </title>
+    <meta content="Class Website">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <nav>
+      <div class="Pink nav-wrapper">
+        <a href="#" class="brand-logo">Dogs</a>
+        <ul id="nav-mobile" class="right hide-on-med-and-down">
+          <li><a href="About">About</a></li>
+          <li><a href="Kinds">Kinds</a></li>
+          <li><a href="http://www.google.com">Google</a></li>
+        </ul>
+      </div>
+    </nav>
+  </head>
+  <body id="top">
+    <h1> A Mans Best Friend! </h1>
+    <p>
+      <h4>
+        Dogs and how they affect our lives.
+      </h4>
+    </p>
+    <div class="divider"></div>
+    <p>
+      <div class="section Green lighten-2 blue-text text-darken-3" id="top-div">
+        Dogs, often referred to as "man's best friend," hold a special place in our hearts and homes. These loyal and affectionate animals 
+        have been cherished companions to humans for thousands of years. Dogs come in a wide range of breeds, each with its unique characteristics
+        and traits, from the energetic and playful Labrador Retriever to the elegant and dignified Greyhound. Beyond their diversity, what unites 
+        all dogs is their unwavering loyalty, unconditional love, and their ability to bring joy and companionship into our lives. Whether they're 
+        playfully bounding through a park, offering a comforting presence during tough times, or working alongside humans in various roles like 
+        search and rescue, therapy, or as service animals, dogs exemplify the remarkable bond between animals and people, making them a beloved 
+        part of our families and society.
+      </div>
+    </p>
+      <p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/b43PbeSekDo?si=3pQn5lC5bacuUfxu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      </p>
+    </div>
+  </body>
+</html>
